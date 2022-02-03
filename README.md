@@ -3,7 +3,7 @@
 
 ### Task
 
-Given a dictionary containing 10000 words, use SHARK2 algorithm to decode a  user input gesture and output the best decoded word. (Ref: )
+Given a dictionary containing 10000 words, use **SHARK2 algorithm** to decode a  user input gesture and output the best decoded word. (Ref: [Microsoft Word - p310-kristensson.doc (pokristensson.com)](http://pokristensson.com/pubs/KristenssonZhaiUIST2004.pdf))
 
 ### Demo
 
